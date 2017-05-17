@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
 s.name = "LSYXAspect"
 
-s.version = "1.0.0.0"
+s.version = "1.0.0.1"
 
 s.summary = "A Library for iOS LSYXAspect."
 
